@@ -1,1 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gTuneProfiles>
+    <Params Index="PITCH_P" Value="2"/>
+    <Params Index="ROLL_P" Value="128"/>
+    <Params Index="YAW_P" Value="160"/>
+    <Params Index="GYRO_LPF" Value="7"/>
+    <Params Index="GYRO_LPF" Value="4"/>
+    <Params Index="PITCH_POWER" Value="45"/>
+    <Params Index="ROLL_POWER" Value="45"/>
+    <Params Index="YAW_POWER" Value="45"/>
+    <Params Index="PITCH_I" Value="120"/>
+    <Params Index="DIR_MOTOR_ROLL" Value="0"/>
+    <Params Index="PITCH_FOLLOW" Value="150"/>
+    <Params Index="PITCH_FILTER" Value="50"/>
+    <Params Index="TILT_WINDOW" Value="7"/>
+    <Params Index="ROLL_D" Value="0"/>
+    <Params Index="YAW_FOLLOW" Value="120"/>
+    <Params Index="YAW_FILTER" Value="50"/>
+    <Params Index="PAN_WINDOW" Value="7"/>
+    <Params Index="DIR_MOTOR_PITCH" Value="1"/>
+</gTuneProfiles>
 
